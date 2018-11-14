@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "串口范例", "串口范例\串口范例.vcxproj", "{05299276-8B37-4A03-991B-9F0E9BCB49EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Debug|x64.ActiveCfg = Debug|x64
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Debug|x64.Build.0 = Debug|x64
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Debug|x86.Build.0 = Debug|Win32
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Release|x64.ActiveCfg = Release|x64
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Release|x64.Build.0 = Release|x64
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Release|x86.ActiveCfg = Release|Win32
+		{05299276-8B37-4A03-991B-9F0E9BCB49EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25945FD2-D32A-49B2-BBE5-BF45B8C2148A}
+	EndGlobalSection
+EndGlobal
